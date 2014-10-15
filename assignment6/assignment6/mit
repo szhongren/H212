@@ -1,0 +1,32 @@
+traceroute to mit.edu (18.9.22.69), 30 hops max, 60 byte packets
+ 1  xe-0-2-1.244.cr3.hper.net.uits.iu.edu (129.79.247.252)  0.379 ms  0.423 ms  0.413 ms
+ 2  ae-13.0.br2.hper.net.uits.iu.edu (134.68.3.62)  6.000 ms  6.002 ms  5.995 ms
+ 3  ae-11.0.br2.bldc.net.uits.iu.edu (134.68.3.39)  0.447 ms  0.444 ms  0.437 ms
+ 4  ae-0.0.br2.ictc.net.uits.iu.edu (134.68.3.34)  1.372 ms  1.361 ms  1.348 ms
+ 5  xe-0-1-0.9.rtr.ictc.indiana.gigapop.net (149.165.254.229)  1.334 ms  1.326 ms  1.317 ms
+ 6  et-3-0-0.1.rtr.ll.indiana.gigapop.net (149.165.255.194)  1.365 ms  1.344 ms  1.360 ms
+ 7  xe-0-0-1.110.rtr.atla.net.internet2.edu (149.165.254.21)  22.646 ms  22.632 ms  22.617 ms
+ 8  ae-8.10.rtr.wash.net.internet2.edu (64.57.28.7)  28.630 ms  28.673 ms  28.648 ms
+ 9  64.57.28.192 (64.57.28.192)  33.792 ms  33.788 ms  33.775 ms
+10  nox300gw1-vl-110-nox-i2.nox.org (192.5.89.221)  39.158 ms  39.335 ms  39.238 ms
+11  192.5.89.22 (192.5.89.22)  39.273 ms  39.196 ms  39.202 ms
+12  * * *
+13  DMZ-RTR-1-EXTERNAL-RTR-3.MIT.EDU (18.192.7.1)  36.719 ms  36.729 ms  36.661 ms
+14  BACKBONE-RTR-1-DMZ-RTR-1.MIT.EDU (18.168.5.1)  36.622 ms  36.751 ms  36.735 ms
+15  OC11-RTR-1-BACKBONE-2.MIT.EDU (18.168.1.41)  36.725 ms  36.815 ms  36.807 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+

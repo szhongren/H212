@@ -1,0 +1,20 @@
+﻿Build started 5/1/2013 9:50:26 AM.
+     1>Project "C:\Users\Zhongren\SkyDrive\IU\work\Spring 2013\CSCI-H212\final\final\final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt final.cpp
+         final.cpp
+     1>c:\users\zhongren\skydrive\iu\work\spring 2013\csci-h212\final\final\final.cpp(30): error C2676: binary '-=' : 'std::_List_iterator<_Mylist>' does not define this operator or a conversion to a type acceptable to the predefined operator
+                 with
+                 [
+                     _Mylist=std::_List_val<std::_List_simple_types<int>>
+                 ]
+     1>c:\users\zhongren\skydrive\iu\work\spring 2013\csci-h212\final\final\final.cpp(31): error C2676: binary '[' : 'std::_List_iterator<_Mylist>' does not define this operator or a conversion to a type acceptable to the predefined operator
+                 with
+                 [
+                     _Mylist=std::_List_val<std::_List_simple_types<int>>
+                 ]
+     1>Done Building Project "C:\Users\Zhongren\SkyDrive\IU\work\Spring 2013\CSCI-H212\final\final\final.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.25

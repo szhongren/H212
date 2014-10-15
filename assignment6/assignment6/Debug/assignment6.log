@@ -1,0 +1,11 @@
+﻿Build started 5/1/2014 4:53:52 AM.
+     1>Project "C:\Users\szhongren\SkyDrive\IU\work\2013 Spring\CSCI-H212\assignment6\assignment6\assignment6.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(607,5): warning MSB6008: Forcing a rebuild of all sources due to an error with the tracking logs. The file cannot be accessed by the system.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(607,5): warning MSB6008: 
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(607,5): error MSB6003: The specified task executable "link.exe" could not be run. The file cannot be accessed by the system.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(607,5): error MSB6003: 
+     1>Done Building Project "C:\Users\szhongren\SkyDrive\IU\work\2013 Spring\CSCI-H212\assignment6\assignment6\assignment6.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.03

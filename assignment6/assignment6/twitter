@@ -1,0 +1,17 @@
+traceroute to twitter.com (199.59.148.10), 30 hops max, 60 byte packets
+ 1  xe-0-2-1.244.cr3.hper.net.uits.iu.edu (129.79.247.252)  0.443 ms  0.422 ms  0.413 ms
+ 2  ae-13.0.br2.hper.net.uits.iu.edu (134.68.3.62)  1.085 ms  1.084 ms  1.082 ms
+ 3  xe-0-3-3.0.br2.ul.net.uits.iu.edu (134.68.3.36)  2.597 ms  2.626 ms  2.629 ms
+ 4  ae-11.0.br2.ictc.net.uits.iu.edu (134.68.3.32)  2.085 ms  2.092 ms  2.097 ms
+ 5  xe-0-1-0.11.rtr.ictc.indiana.gigapop.net (149.165.183.17)  2.096 ms  2.095 ms  2.094 ms
+ 6  207-67-55-145.static.twtelecom.net (207.67.55.145)  27.657 ms  27.730 ms  27.705 ms
+ 7  chi2-pr1-xe-1-2-0-0.us.twtelecom.net (66.192.250.158)  34.117 ms  33.514 ms  33.476 ms
+ 8  xe-0.equinix.chcgil09.us.bb.gin.ntt.net (206.223.119.12)  8.419 ms  8.446 ms  8.432 ms
+ 9  ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.3.98)  8.679 ms  8.744 ms  8.730 ms
+10  ae-4.r21.dllstx09.us.bb.gin.ntt.net (129.250.2.200)  83.932 ms  58.311 ms  83.466 ms
+11  ae-4.r03.atlnga05.us.bb.gin.ntt.net (129.250.3.90)  45.280 ms  42.683 ms  43.946 ms
+12  xe-0-2-0-2.r03.atlnga05.us.ce.gin.ntt.net (129.250.196.110)  45.070 ms  48.228 ms  48.101 ms
+13  ae60.sjc2-cr1.twttr.com (199.16.159.80)  90.081 ms  86.163 ms  86.881 ms
+14  ae53.smf1-er1.twttr.com (199.16.159.37)  89.466 ms  89.410 ms  91.017 ms
+15  r-199-59-148-10.twttr.com (199.59.148.10)  91.460 ms  93.914 ms  92.101 ms
+

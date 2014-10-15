@@ -1,0 +1,7 @@
+Destination host: google.com
+Destination IP: 74.125.225.136
+Successful?: Yes
+# of total hops: 10
+# of unresponsive hops: 0
+# of responsive hops: 10
+longest average hop: 6 to 7
