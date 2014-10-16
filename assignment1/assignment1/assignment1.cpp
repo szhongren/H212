@@ -22,31 +22,31 @@ int main()
 void asker(int vals[size])
 {
 	int i = 0;
-	while (i < size)
-	{
-		cout << "How many ";
-		switch(i)
+	string name;
+	while (i < size) {
+	    switch(i)
 		{
 		case 0:
-			cout << "pennies";
+			name = "pennies";
 			break;
 		case 1:
-			cout << "nickels";
+			name = "nickels";
 			break;
 		case 2:
-			cout << "dimes";
+			name = "dimes";
 			break;
 		case 3:
-			cout << "quarters";
+			name = "quarters";
 			break;
 		case 4:
-			cout << "half dollars";
+			name = "half dollars";
 			break;
 		case 5:
-			cout << "dollars";
+			name = "dollars";
 			break;
 		}
-		cout << " do you have?" << endl;
+		cout << 
+		  cout << "How many " << name << " do you have?" << endl;
 		cin >> vals[i];
 		i++;
 	}
